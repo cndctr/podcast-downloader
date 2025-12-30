@@ -168,3 +168,5 @@ def main():
         except KeyboardInterrupt:
             print("User interrupted")
 
+if __name__ == "__main__":
+    main()
